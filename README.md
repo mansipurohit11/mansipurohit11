@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mansipurohit1308@gmail.com**
 
-- ⚡ Fun fact **I an paint, draw.**
+- ⚡ Fun fact **I can paint, draw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
