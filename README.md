@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mansipurohit_11" target="blank"><img src="https://img.shields.io/twitter/follow/mansipurohit_11?logo=twitter&style=for-the-badge" alt="mansipurohit_11" /></a> </p>
 
-- 🔭 I’m currently working on **My UX case study for JapanMe App.**
+- 🔭 I’m currently working on **My portfolio for Developer and Designer.**
 
-- 🌱 I’m currently learning **Next.Js for DApps**
+- 🌱 I’m currently learning **Next.Js and Solidity for DApps.**
 
 - 📫 How to reach me **mansipurohit1308@gmail.com**
 
-- ⚡ Fun fact **I can paint, draw.**
+- ⚡ Fun fact **I can sing and paint at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
