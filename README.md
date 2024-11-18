@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Researching about the growth of MLOps in future.**
 
-- 🌱 I’m currently learning **Devops,AWS, Kubernetes**
+- 🌱 I’m currently learning **Image classification using Python and ML**
 
 - 📫 How to reach me **mansipurohit1308@gmail.com**
 
