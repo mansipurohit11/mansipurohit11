@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Image classification using Python and ML**
 
-- 📫 How to reach me **mansipurohit1308@gmail.com**
+- 📫 How to reach me **mansi11work@gmail.com**
 
 - ⚡ Fun fact **I can sing and paint at the same time.**
 
