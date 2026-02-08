@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Agentic AI for autonomous decision systems**
 
-- 📫 How to reach me **mansi11work@gmail.com**
+- 📫 How to reach me **Mansipurohit1308@gmail.com**
 
 - ⚡ Fun fact **I can sing and paint at the same time.**
 
