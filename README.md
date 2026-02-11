@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="fun_profile.gif" width="100%" />
+  <img src="pastel_profile.gif" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Mansi Purohit</h1>
 <h3 align="center">A Python Developer also passionate about Fintech.</h3>
