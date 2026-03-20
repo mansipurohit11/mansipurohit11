@@ -16,13 +16,3 @@
 - 📫 How to reach me **Mansipurohit1308@gmail.com**
 
 - ⚡ Fun fact **I can sing and paint at the same time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mansipurohit_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansipurohit_11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mansi-purohit-892bb017a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-purohit-892bb017a/" height="30" width="40" /></a>
-<a href="https://medium.com/@mansipurohit11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansipurohit11" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansipurohit11&" alt="mansipurohit11" /></p>
-
