@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Mansi Purohit</h1>
 <h3 align="center">A Python Developer also passionate about Fintech.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/search/programmer-gifs">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansipurohit11&label=Profile%20views&color=0e75b6&style=flat" alt="mansipurohit11" /> </p>
 
