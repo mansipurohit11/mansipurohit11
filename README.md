@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Mansi_Final_Banner.gif" width="100%" />
+  <img src="Mansi_Kawaii_Banner.gif" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Mansi Purohit</h1>
 <h3 align="center">A Python Developer also passionate about Fintech.</h3>
